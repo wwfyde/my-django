@@ -1,3 +1,13 @@
+# 这是pycharm idea 配置文件 不需要同步
 .idea/
+
+# 这是vscode配置文件
+.vscode/
+
+#其他配置文件
 .pyc
 __pycache__/
+
+
+# 测试是否生效
+*.mytest
